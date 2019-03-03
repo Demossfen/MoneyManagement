@@ -9,6 +9,5 @@ class AddItemActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_add_item)
 
-      //  setTitle(R.string.add_item_title);
     }
 }
