@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">MoneyManagement</string>
+    <string name="app_name">Money Management</string>
     <string name="add_item_title">Новая запись</string>"
+    <string name="name">Название</string>
+    <string name="price">0</string>
+    <string name="grn">₴</string>
 </resources>

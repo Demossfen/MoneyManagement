@@ -11,7 +11,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Hello World!"
-            android:textColor="@color/text"
+            android:textColor="@color/white"
             android:background="@color/backgroundText"
             android:textSize="20sp"
             app:layout_constraintBottom_toBottomOf="parent"
